@@ -1,0 +1,89 @@
+#banner_image{
+padding-top: 20px;
+padding-bottom: 50px;
+text-align: center;
+color: #f8f8f8;
+background: url(img/apple1.jpg) no-repeat center center;
+background-size: cover;
+}
+#banner_content{
+position: relative;
+padding-top: 6%;
+padding-bottom: 6%;
+margin-top: 32%;
+margin-bottom:0%;
+background-color: rgba(0,0,0,0.2);
+max-width: 660px;
+}
+.container{
+width:90%;     
+margin:auto;     
+overflow:hidden;
+}
+.row_style1{
+margin-top:100px;
+margin-bottom:33px;
+}
+.row_style2{
+margin-top:60px;
+margin-bottom:109px;
+}
+.row_style3{
+margin-top:100px;
+margin-bottom:170px;
+}
+
+.modal-header, .close{
+    background-color:orange;
+    color: white !important;
+    text-align: center;
+    font-size: 50px;
+}
+
+.modal-footer{
+    background-color: #f9f9f9;
+}
+
+#item_list {
+    padding-top: 50px;
+}
+#ios:before, #ios:before, #ios:before{
+    display: block;
+    content: " ";
+    margin-top: -85px;
+    height: 85px;
+    visibility: hidden;
+}
+
+
+#login-panel .panel-footer{
+    font-weight:normal;
+}
+
+.img1{
+height:380px;
+width:Auto;
+display: block;
+background-color: rgba(0,0,0,0.2);
+}
+
+footer {
+    position:relative;
+    background-color: #3d3d3d;
+    color:white;
+    width: 100%;
+    bottom: 0;
+    font-weight: 300;
+}
+.footer1 {
+    position:fixed;
+    bottom: 0;
+    width:100%;
+}
+
+.columnf{
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+
+}
